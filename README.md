@@ -23,6 +23,7 @@ You have 6 wrong guesses allowed.
 Guess the full word before attempts run out to win.
 
 How to Run :
+
 Step 1: Clone the repository
 Bash
 git clone https://github.com/your-username/hangman-game.git
