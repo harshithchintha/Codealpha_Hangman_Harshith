@@ -5,6 +5,7 @@ Task 1 : Hangman Game
 A simple text-based Hangman Game built using Python.
 The player tries to guess a hidden word one letter at a time before running out of attempts.
 This project is beginner-friendly and demonstrates core Python concepts like loops, conditionals, lists, and user input handling.
+
 Features of Hangman Game :
 1.Random word selection from a predefined list
 2.Letter-by-letter guessing
@@ -24,15 +25,12 @@ Guess the full word before attempts run out to win.
 How to Run :
 Step 1: Clone the repository
 Bash
-Copy code
 git clone https://github.com/your-username/hangman-game.git
 Step 2: Navigate to folder
 Bash
-Copy code
 cd hangman-game
 Step 3: Run the program
 Bash
-Copy code
 python hangman.py
 
 Concepts Practiced :
