@@ -26,9 +26,11 @@ How to Run :
 Step 1: Clone the repository
 Bash
 git clone https://github.com/your-username/hangman-game.git
+
 Step 2: Navigate to folder
 Bash
 cd hangman-game
+
 Step 3: Run the program
 Bash
 python hangman.py
