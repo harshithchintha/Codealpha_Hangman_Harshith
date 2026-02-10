@@ -33,7 +33,7 @@ How to Run :
 
 Step 1: Clone the repository
 Bash
-git clone https://github.com/your-username/hangman-game.git
+git clone https://github.com/harshithchintha/hangman-game.git
 
 Step 2: Navigate to folder
 Bash
