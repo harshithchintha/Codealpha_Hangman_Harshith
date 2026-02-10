@@ -7,6 +7,7 @@ The player tries to guess a hidden word one letter at a time before running out 
 This project is beginner-friendly and demonstrates core Python concepts like loops, conditionals, lists, and user input handling.
 
 Features of Hangman Game :
+
 1.Random word selection from a predefined list
 2.Letter-by-letter guessing
 3.Maximum 6 wrong attempts
@@ -15,6 +16,7 @@ Features of Hangman Game :
 6.Clean console output
 
 How to Play:
+
 The game randomly selects a word.
 You guess one letter at a time.
 If the letter is correct, it is revealed in the word.
