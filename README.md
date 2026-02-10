@@ -9,10 +9,15 @@ This project is beginner-friendly and demonstrates core Python concepts like loo
 Features of Hangman Game :
 
 1.Random word selection from a predefined list
+
 2.Letter-by-letter guessing
+
 3.Maximum 6 wrong attempts
+
 4.Input validation (single letter, no repeats)
+
 5.Win/Lose detection
+
 6.Clean console output
 
 How to Play:
